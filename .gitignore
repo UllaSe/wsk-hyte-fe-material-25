@@ -22,3 +22,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Weekly files and folders, will change as the content changes
+01-linkkejä.md
+02-bom-dom.md
+03-linkkejä.md
+03-responsiivisuus.md
+04-fetch.md
+04-flexbox.md
+06-apiharjoitus.md
+README copy.md
+vite-project
+tuntiesimerkit-valmiit
+tuntiesimerkit-pohjat
