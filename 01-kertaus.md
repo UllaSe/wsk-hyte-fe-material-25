@@ -4,25 +4,7 @@ Ensimmäisen vuoden Ohjelmisto -kursseilla harjoiteltiin HTML/CSS peruskonseptej
 
 Kurssin lopputuotoksena rakennetaan terveyspäiväkirja-web-sovellus käyttäen tunneilla tehtyä back-end- ja front-end-sovelluksia lähtökohtana.
 
-## 0. Kertaus
-
-Mahdollisuuksia eri html elementtien asemointiin sivuilla on monia, ja tämä onkin usein hankalimpia CSS konsepteja hallita. Perustasolla, sinulla on käytettävissä seuraavat:
-
-- block layout / inline layout
-- elementtien koon määrittely (pikselit, prosentit, sisältöön mukauttaminen)
-- box-sizing (margin, padding, border)
-- kelluttaminen (float)
-- relatiivinen asemointi (relative positioning)
-- absoluuttinen/ fiksattu asemointi (absolute / fixed / sticky positioning)
-- keskittäminen (centering)
-
-Ensimmäisenä päivänä harjoittelemme näitä asioita, löydät asemoinnin treenaamista varten, laatikko-harjoituspohjan täältä. Koodissa on mukana linkit asemoinnin eri käsitteisiin.
-
-[Laatikkoleikki](harjoitukset/asemointi.html)
-
-Näitä osittain korvaamaan ja helpottamaan onkin suunniteltu Flexbox ja CSS Grid käsitteet. Flex ja Grid toimivat molemmat mukavasti yhdessä, kummallakin on kuitenkin oat käyttötarkoituksensa. Näihin syvennymme kunnolla seuraavien viikkojen aikana.
-
-## 1. Tämän kurssin UI/UX tehtävien fokus, sivustoa jatketaan ja muutetaan useampi viikko
+## UI/UX viikkotehtävien fokus, sivustoa rakennetaan, jatketaan ja muutetaan useampi viikko
 
 Haluatko paremmaksi Web Designeriksi? Yksi yllättävän yleinenkin tapa on kopioida ja luoda layout-kuvan mukaisia olemassa olevia sivuja. Lue ensin hieman ajatuksia täältä: https://css-tricks.com/excercise-to-get-better-at-web-design/
 
@@ -69,7 +51,25 @@ Jotta oppisimme tällä kurssilla uusia asioita, on sivuston teknologisiin ratka
 
 <hr>
 
-### Ensimmäisen viikon tehtävänanto, UI
+## 0. Kertaus
+
+Mahdollisuuksia eri html elementtien asemointiin sivuilla on monia, ja tämä onkin usein hankalimpia CSS konsepteja hallita. Perustasolla, sinulla on käytettävissä seuraavat:
+
+- block layout / inline layout
+- elementtien koon määrittely (pikselit, prosentit, sisältöön mukauttaminen)
+- box-sizing (margin, padding, border)
+- kelluttaminen (float)
+- relatiivinen asemointi (relative positioning)
+- absoluuttinen/ fiksattu asemointi (absolute / fixed / sticky positioning)
+- keskittäminen (centering)
+
+Ensimmäisenä päivänä harjoittelemme näitä asioita, löydät asemoinnin treenaamista varten, laatikko-harjoituspohjan täältä. Koodissa on mukana linkit asemoinnin eri käsitteisiin.
+
+[Laatikkoleikki](harjoitukset/asemointi.html)
+
+Näitä osittain korvaamaan ja helpottamaan onkin suunniteltu Flexbox ja CSS Grid käsitteet. Flex ja Grid toimivat molemmat mukavasti yhdessä, kummallakin on kuitenkin oat käyttötarkoituksensa. Näihin syvennymme kunnolla seuraavien viikkojen aikana.
+
+### Ensimmäisen viikon viikkotehtävä, UI
 
 ![image](images/vk1.png)
 
