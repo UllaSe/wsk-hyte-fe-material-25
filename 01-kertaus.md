@@ -4,7 +4,9 @@ Ensimmäisen vuoden Ohjelmisto -kursseilla harjoiteltiin HTML/CSS peruskonseptej
 
 Kurssin lopputuotoksena rakennetaan terveyspäiväkirja-web-sovellus käyttäen tunneilla tehtyä back-end- ja front-end-sovelluksia lähtökohtana.
 
-## UI/UX viikkotehtävien fokus, sivustoa rakennetaan, jatketaan ja muutetaan useampi viikko
+## Front-end, viikot 1-6
+
+Front end osuus kurssista on rakennettu niin, että joka viikko keskitytään yhteen isoon konseptiin. Koko kurssin aikana yritämme rakentaa alla näkyvän esimerkin pohjalta mahdollisimman identtisen ja ennen kaikkea toimivan, responsiivisen sivuston hienovaraisilla animaatioilla ym. Viemme viikko viikolta kurssilla sivustoa pidemmälle ja lisäämme toiminnallisuuksia sekä vaatimuksia sen tekemiseen. Kurssin alustava viikkoaikataulu löytyy repon readme tiedostosta.
 
 Demosivun kuvankaappaus:
 ![image](images/layout.jpg)
@@ -21,28 +23,21 @@ Asioita joita mm. käsittelemme tällä kurssilla ja lopullisessa sivustossa on 
 - CSS Flexbox / Grid pohja sivustossa ja sen käyttö muutenkin asemoinnissa
 - CSS Reset ajatus
 - Hyvin mietityt CSS luokat, määrittelyt ja nimeämiset
-- Responsiivisuuden eri keinot ja sen tyylikäs toteuttaminen
+- Responsiivisuuden eri keinot ja sen järkevä toteuttaminen
 - Täysin validoitu ja puhdas koodi
 - Visuaalinen suunnittelu ja sen hyödyntäminen layoutissa
 - Käytettävyyden perusteet
-- Fonttien järkevä käyttö, Google tai paikallinen
 - Modaalit, Dialogit
 - Lomakkeet ja front-end validointi
 
 Toisessa periodissa keskitymme projektin tekemiseen ja parannamme sivujen käyttökokemusta. Näistä lisää siis seuraavalla kurssilla.
 <br>
 
-# Tämän viikon varsinainen tehtävä, peruskäsitteet ja asemointi
+# Tämän viikon fokus, kertaaminen: peruskäsitteet ja asemointi
 
 Ensimmäisenä tehtävänä tällä viikolla on kerrata peruskäsitteitä. **Emme koske vielä flexbox/grid tyylittelyyn ensimmäisellä viikolla.** Tarkoitus onkin yrittää mimikoida jo olemassa olevaa designia ensin perinteisin keinoin. Ensimmäisellä viikolla saat siis käyttää kaikkea muuta, paitsi flexbox ja grid asemointia.
 
-Navigaation ei ole tarkoitus toimia vielä, mutta on oltava tyylitelty. Luo siis näin alkuun vain yksi sivu. Mieti alkuun seuraavia, näitä emme siis vielä kaikkea toteuta tällä viikolla:
-
-1. Miten ja mistä komponenteista rakentaisin itse sivuston tämän leiskan mukaiseksi?
-2. Miten jaottelen leiskan sisällö eri alueisiin?
-3. Mistä elementeistä navigaatio on tehty?
-
-Jotta oppisimme tällä kurssilla uusia asioita, on sivuston teknologisiin ratkaisuihin tiukemmat kriteerit. Ensimmäisellä viikolla rakennamme sivustosta vai yhden osan. Lisäämme sisältöä stattisesti/dynaamisesti seuraavilla viikolla, viikko kerrallaan.
+Jotta oppisimme tällä kurssilla uusia asioita, on sivuston teknologisiin ratkaisuihin tiukemmat kriteerit. Ensimmäisellä viikolla rakennamme sivustosta vain yhden osan. Lisäämme sisältöä stattisesti/dynaamisesti seuraavilla viikolla, viikko kerrallaan.
 
 <hr>
 
