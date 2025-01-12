@@ -65,7 +65,7 @@ Näitä osittain korvaamaan ja helpottamaan onkin suunniteltu Flexbox ja CSS Gri
 
 Ensimmäisellä viikolla saat käyttää siis vain perus asemointia, **ei flexbox, eikä grid asettelua**. Ensin teemme vain osan sivustosta. Aloitamme sivun about ja navigaatio-osuudesta. Huomaa, että sivujen pitää olla myös keskitetty.
 
-Käytä sivuston esimerkki designia vain pohjana. Mieti oma hyvinvointiteemasi. Käytä omia vaihtoehtoisia värejä sekä kuvia
+Käytä sivuston esimerkkidesignia vain pohjana. Mieti oma hyvinvointiteemasi. **Käytä omia vaihtoehtoisia värejä sekä kuvia.**
 
 ![image](images/vk1.png)
 
@@ -74,7 +74,7 @@ Käytä sivuston esimerkki designia vain pohjana. Mieti oma hyvinvointiteemasi. 
 - Kirjoita HTML sekä CSS-koodi erillisiin tiedostoihin, jonka avulla luot sivustosi
 - Opettele koodatessasi samalla Emmetin käyttöä
 - Yhteystieto-osion takana näkyvä kuva on tehty css taustakuvana. Mikäli tämä on vielä hakusessa, käytä vain väriä.
-- Saat tehtyä suorakulmaisista elementeistä ja reunuksista helposti pyöreitä/pyöristettyjä käyttämällä [border-radius määrittelyä](https://www.w3schools.com/cssref/css3_pr_border-radius.asp) [reunoja](https://www.w3schools.com/css/css_border.asp
+- Saat tehtyä suorakulmaisista elementeistä ja reunuksista helposti pyöreitä/pyöristettyjä käyttämällä [border-radius määrittelyä](https://www.w3schools.com/cssref/css3_pr_border-radius.asp) [reunoja](https://www.w3schools.com/css/css_border.asp)
 - Jos haluat käyttää varjostusta, eli Box-shadow ominaisuutta:
   - [box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/)
   - [box-shadow w3schools](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
@@ -85,7 +85,7 @@ Käytä sivuston esimerkki designia vain pohjana. Mieti oma hyvinvointiteemasi. 
 1. https://www.w3schools.com/css/css_navbar.asp
 2. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
 
-Lisäämme seuraavilla viikolla sivulle mm. responsivisuuden, nämä voi jättää toistaiseksi pois.
+Lisäämme seuraavilla viikolla sivulle mm. responsivisuuden, nämä voi jättää toistaiseksi pois. Palautusohjeet löydät OMAsta.
 
 <hr>
 
