@@ -51,7 +51,7 @@ Jotta oppisimme tällä kurssilla uusia asioita, on sivuston teknologisiin ratka
 
 <hr>
 
-## 0. Kertaus
+## Luento 0. Kertaus
 
 Mahdollisuuksia eri html elementtien asemointiin sivuilla on monia, ja tämä onkin usein hankalimpia CSS konsepteja hallita. Perustasolla, sinulla on käytettävissä seuraavat:
 
@@ -69,13 +69,15 @@ Ensimmäisenä päivänä harjoittelemme näitä asioita, löydät asemoinnin tr
 
 Näitä osittain korvaamaan ja helpottamaan onkin suunniteltu Flexbox ja CSS Grid käsitteet. Flex ja Grid toimivat molemmat mukavasti yhdessä, kummallakin on kuitenkin oat käyttötarkoituksensa. Näihin syvennymme kunnolla seuraavien viikkojen aikana.
 
-### Ensimmäisen viikon viikkotehtävä, UI
+## Luento 1. Sivuston aloittaminen, palautettava viikkotehtävä
 
-![image](images/vk1.png)
+### 1. TEHTÄVÄ – Rakenna alla olevan kuvan mukainen sivusto
 
 Ensimmäisellä viikolla saat käyttää siis vain perus asemointia, **ei flexbox, eikä grid asettelua**. Ensin teemme vain osan sivustosta. Aloitamme sivun about ja navigaatio-osuudesta. Huomaa, että sivujen pitää olla myös keskitetty.
 
-Käytä sivuston esimerkki designia vain pohjana. Mieti oma hyvinvointiteemasi. Käytä vaihtoehtoisia värejä sekä kuvia
+Käytä sivuston esimerkki designia vain pohjana. Mieti oma hyvinvointiteemasi. Käytä omia vaihtoehtoisia värejä sekä kuvia
+
+![image](images/vk1.png)
 
 ## Tekniset vaatimukset
 
@@ -96,10 +98,6 @@ Käytä sivuston esimerkki designia vain pohjana. Mieti oma hyvinvointiteemasi. 
 Lisäämme seuraavilla viikolla sivulle mm. responsivisuuden, nämä voi jättää toistaiseksi pois.
 
 <hr>
-
-## HTML ja CSS Validointi joka viikko käyttöön, samoin aloitamme LightHouse auditoinnin
-
-Lighthouse auditointia ei tarvitse vielä tehdä, otamme sen seuraavilla viikoilla mukaan ja syvennämme auditointia syksyn aikana.
 
 ### HTML Validointi
 
@@ -123,7 +121,7 @@ https://www.w3.org/standards/techs/html#w3c_all<br><br>
 
 ### HTML Validaattori
 
-<img src="http://users.metropolia.fi/~ullamu/mdimages/validation.png" width="600">
+<img src="https://users.metropolia.fi/~ullamu/mdimages/validation.png" width="600">
 
 Validaattori on ohjelma, joka tarkastaa koneellisesti dokumentin oikeellisuuden dokumenttityypin mukaan.
 W3C Markup validaattorin löydät täältä:
@@ -143,13 +141,13 @@ Nyt kun olet lukenut HTML validoinnista, on aika myös käyttää validaattoria.
 - Mene osoitteeseen: https://validator.w3.org/ ja validoi sivusi.
 - Tarkista sekä korjaa mahdolliset virheet ja varoitukset:
 
-<img src="http://users.metropolia.fi/~ullamu/mdimages/errors.png" width="600">
+<img src="https://users.metropolia.fi/~ullamu/mdimages/errors.png" width="600">
 
 Tässä esimerkissä minulta puuttuu div-elementin sulku ja validaattori kehoittaa lisäämään lang=”en” attribuutin html elementille, sillä käytän sivulla englantia, enkä muita kieliä. (https://www.w3.org/International/questions/qa-lang-why) Virhe 2 korjaantuu automaattisesti sillä, että korjaan virheen kohdassa kolme, eli lisään puuttuvan div-elementin.
 
 Korjauksen jälkeen:
 
-<img src="http://users.metropolia.fi/~ullamu/mdimages/noerrors.png" width="600"><br><br>
+<img src="https://users.metropolia.fi/~ullamu/mdimages/noerrors.png" width="600"><br><br>
 
 ## 3. TEHTÄVÄ – Validoi myös CSS
 
