@@ -17,7 +17,7 @@ https://dribbble.com/shots/23369008-Gym-Fitness-Landing-Page
 
 Asioita joita mm. käsittelemme tällä kurssilla ja lopullisessa sivustossa on oltava:
 
-- HTMl, CSS ja Javacript, REST
+- HTML, CSS ja Javacript, REST
 - Oma sovellus, jossa Käytetty kaikkia perus asemoinnin käsitteitä
 - Semanttiset elementit ja niiden oikeanlainen hyödyntäminen
 - CSS Flexbox / Grid pohja sivustossa ja sen käyttö muutenkin asemoinnissa
@@ -74,16 +74,17 @@ Käytä sivuston esimerkkidesignia vain pohjana. Mieti oma hyvinvointiteemasi. *
 - Kirjoita HTML sekä CSS-koodi erillisiin tiedostoihin, jonka avulla luot sivustosi
 - Opettele koodatessasi samalla Emmetin käyttöä
 - Yhteystieto-osion takana näkyvä kuva on tehty css taustakuvana. Mikäli tämä on vielä hakusessa, käytä vain väriä.
-- Saat tehtyä suorakulmaisista elementeistä ja reunuksista helposti pyöreitä/pyöristettyjä käyttämällä [border-radius määrittelyä](https://www.w3schools.com/cssref/css3_pr_border-radius.asp) [reunoja](https://www.w3schools.com/css/css_border.asp)
+- Saat tehtyä suorakulmaisista elementeistä ja reunuksista helposti pyöreitä/pyöristettyjä käyttämällä
+  - [border-radius määrittelyä](https://www.w3schools.com/cssref/css3_pr_border-radius.asp)
 - Jos haluat käyttää varjostusta, eli Box-shadow ominaisuutta:
   - [box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/)
   - [box-shadow w3schools](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
 - Käytä ylänavigaation linkeissä pseudoluokkia ja tekstille joku muutos kun hiiren osoitin on kohdistettu linkin päälle, sekä kun sitä painetaan (ja pidetään pohjassa)
   - [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+- Esimerkki navigaatio
+  - [W3Schools Navigation](https://www.w3schools.com/css/css_navbar.asp)
+  - [Mozilla Navigation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
 - Muista hyvät nimeämiskäytännöt
-
-1. https://www.w3schools.com/css/css_navbar.asp
-2. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
 
 Lisäämme seuraavilla viikolla sivulle mm. responsivisuuden, nämä voi jättää toistaiseksi pois. Palautusohjeet löydät OMAsta.
 
