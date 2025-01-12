@@ -6,22 +6,17 @@ Kurssin lopputuotoksena rakennetaan terveyspäiväkirja-web-sovellus käyttäen 
 
 ## UI/UX viikkotehtävien fokus, sivustoa rakennetaan, jatketaan ja muutetaan useampi viikko
 
-Haluatko paremmaksi Web Designeriksi? Yksi yllättävän yleinenkin tapa on kopioida ja luoda layout-kuvan mukaisia olemassa olevia sivuja. Lue ensin hieman ajatuksia täältä: https://css-tricks.com/excercise-to-get-better-at-web-design/
-
-Inspiraatio tälle sivulle on saatu seuraavasta laytoutista. Näytän kuitenkin sivustosta toimivan demon.
-
-https://dribbble.com/shots/23369008-Gym-Fitness-Landing-Page
-
 Demosivun kuvankaappaus:
 ![image](images/layout.jpg)
 
-Koko kurssin aikana yritämme rakentaa tämän leiskan pohjalta mahdollisimman
-identtisen ja ennen kaikkea toimivan, responsiivisen, tyylikkään sivuston hienovaraisilla animaatioilla ym.
-Viemme viikko viikolta kurssilla leiskaa pidemmälle ja lisäämme toiminnallisuuksia sekä vaatimuksia sen tekemiseen. Joka viikko käymme läpi jotain tärkeää UI asemointia tai frontin konseptia tunneilla, jonka sinun on sitten rakennettava itse sivustoon.
+Inspiraatio tälle sivulle on saatu seuraavasta layoutista. Näytän kuitenkin sivustosta toimivan demon.
+
+https://dribbble.com/shots/23369008-Gym-Fitness-Landing-Page
 
 Asioita joita mm. käsittelemme tällä kurssilla ja lopullisessa sivustossa on oltava:
 
-- Käytetty kaikkia perus asemoinnin käsitteitä
+- HTMl, CSS ja Javacript, REST
+- Oma sovellus, jossa Käytetty kaikkia perus asemoinnin käsitteitä
 - Semanttiset elementit ja niiden oikeanlainen hyödyntäminen
 - CSS Flexbox / Grid pohja sivustossa ja sen käyttö muutenkin asemoinnissa
 - CSS Reset ajatus
@@ -47,7 +42,7 @@ Navigaation ei ole tarkoitus toimia vielä, mutta on oltava tyylitelty. Luo siis
 2. Miten jaottelen leiskan sisällö eri alueisiin?
 3. Mistä elementeistä navigaatio on tehty?
 
-Jotta oppisimme tällä kurssilla uusia asioita, on sivuston teknologisiin ratkaisuihin tiukemmat kriteerit. Ensimmäisellä viikolla rakennamme sivustosta vai yhden osan. Lisäämme responsiivisuutta sekä sisältöä stattisesti/dynaamisesti seuraavilla viikolla, viikko kerrallaan.
+Jotta oppisimme tällä kurssilla uusia asioita, on sivuston teknologisiin ratkaisuihin tiukemmat kriteerit. Ensimmäisellä viikolla rakennamme sivustosta vai yhden osan. Lisäämme sisältöä stattisesti/dynaamisesti seuraavilla viikolla, viikko kerrallaan.
 
 <hr>
 
@@ -81,9 +76,6 @@ Käytä sivuston esimerkki designia vain pohjana. Mieti oma hyvinvointiteemasi. 
 
 ## Tekniset vaatimukset
 
-1. https://www.w3schools.com/css/css_navbar.asp
-2. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
-
 - Kirjoita HTML sekä CSS-koodi erillisiin tiedostoihin, jonka avulla luot sivustosi
 - Opettele koodatessasi samalla Emmetin käyttöä
 - Yhteystieto-osion takana näkyvä kuva on tehty css taustakuvana. Mikäli tämä on vielä hakusessa, käytä vain väriä.
@@ -94,6 +86,9 @@ Käytä sivuston esimerkki designia vain pohjana. Mieti oma hyvinvointiteemasi. 
 - Käytä ylänavigaation linkeissä pseudoluokkia ja tekstille joku muutos kun hiiren osoitin on kohdistettu linkin päälle, sekä kun sitä painetaan (ja pidetään pohjassa)
   - [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
 - Muista hyvät nimeämiskäytännöt
+
+1. https://www.w3schools.com/css/css_navbar.asp
+2. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
 
 Lisäämme seuraavilla viikolla sivulle mm. responsivisuuden, nämä voi jättää toistaiseksi pois.
 
@@ -133,7 +128,7 @@ No miksi aina kannattaa validoida? Hyviä pointteja löydät W3Cn sivuilta seura
 https://validator.w3.org/docs/why.html
 <br><br>
 
-### 2. TEHTÄVÄ – Validoi HTML sivusi
+### TEHTÄVÄ – Validoi HTML sivusi
 
 Nyt kun olet lukenut HTML validoinnista, on aika myös käyttää validaattoria. Tehtävänäsi on validoida tekemäsi sivun koodi.
 
@@ -149,7 +144,7 @@ Korjauksen jälkeen:
 
 <img src="https://users.metropolia.fi/~ullamu/mdimages/noerrors.png" width="600"><br><br>
 
-## 3. TEHTÄVÄ – Validoi myös CSS
+## TEHTÄVÄ – Validoi myös CSS
 
 Sama homma pätee myös CSS:n validointiin. Työkalun siihen löydät täältä:
 
