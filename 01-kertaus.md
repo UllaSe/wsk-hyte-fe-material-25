@@ -55,7 +55,7 @@ Mahdollisuuksia eri html elementtien asemointiin sivuilla on monia, ja tämä on
 
 Ensimmäisenä päivänä harjoittelemme näitä asioita, löydät asemoinnin treenaamista varten, laatikko-harjoituspohjan täältä. Koodissa on mukana linkit asemoinnin eri käsitteisiin.
 
-[Laatikkoleikki](harjoitukset/asemointi.html)
+[Laatikkoleikki](harjoitukset/vk1-asemointi.html)
 
 Näitä osittain korvaamaan ja helpottamaan onkin suunniteltu Flexbox ja CSS Grid käsitteet. Flex ja Grid toimivat molemmat mukavasti yhdessä, kummallakin on kuitenkin oat käyttötarkoituksensa. Näihin syvennymme kunnolla seuraavien viikkojen aikana.
 
