@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.box {
+  height: 100px;
+  width: 20%;
+  border: 1px solid black;
+  color: aliceblue;
+  display: block;
+  float: left;
+}
+
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#blue {
+  background-color: blue;
+}
+#yellow {
+  background-color: yellow;
+  color: black;
+}
+#orange {
+  background-color: orange;
+}
+/* img */
+img {
+}
+
+/* container */
+.container {
+}
+
+/* relative and absolute positioning with blue */
+#blue {
+}
+
+.card {
+  color: black;
+  background-color: bisque;
+  width: 600px;
+  padding: 10px;
+  /* padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px; */
+  border: 10px dashed black;
+  margin: 40px auto;
+}
+
+p {
+  color: rgb(200, 104, 20);
+}
+
+footer {
+  height: 100px;
+  background-color: rgb(39, 13, 64);
+  color: aliceblue;
+  text-align: center;
+  padding-top: 40px;
+}
+.slogan {
+  /* background-color: rgb(199, 199, 199); */
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+}
+#logo {
+  color: blue;
+  font-size: 25px;
+}
+.flower {
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.clearfix::after {
+  content: '';
+  clear: both;
+  display: table;
+}
