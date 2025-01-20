@@ -17,10 +17,11 @@ Bom, Dom ja Eventit
 
 Käy hakemassa alla oleva **harjoituspohja**:
 
-2. [HARJOITUSPOHJA](https://github.com/ilkkamtk/JavaScript-english/blob/main/BOM-DOM-event.md)
+2. [HARJOITUSPOHJA](harjoitukset/vk2-harjoituspohja.html)
 
 - Käytämme tätä pohjaa harjoittelemaan BOM ja DOM manipulointia
-- Löydät alla olevasta pohjasta ja tästä harjoituksesta kaikki tarvittava alla olevan tehtävän tekemiseen
+- Löydät alla pohjasta kaiken tarvittavan alla olevan tehtävän tekemiseen
+- Löydät pohjasta myös linkit tarvittaviin materiaaleihin
 - Julkaisen harjoituspohjan ratkaisut tuntien jälkeen
 
 ### Viikkotehtävä - BMI Laskin

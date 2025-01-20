@@ -7,7 +7,7 @@ Viikko 1
 
 Viikko 2
 
-1. Vite, JS kertaus, BOM, DOM ja eventit
+1. [JS kertaus, BOM, DOM ja eventit](02-bom-dom.md)
 
 Viikko 3
 
@@ -15,11 +15,11 @@ Viikko 3
 
 Viikko 4
 
-1. Flexbox, Grid
+1. Vite, Fetch, Flexbox
 
 Viikko 5
 
-1. Fetch, JS DOM, modaalit
+1. BE yhdistäminen, Dialogit, modaalit
 
 Viikko 6
 
