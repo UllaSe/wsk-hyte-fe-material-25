@@ -1,4 +1,4 @@
-# Vite.js, fetch perusteet
+# Vite perusteet ja responsiivisuus
 
 Asennetaan ensin vite, HUOM luo tätä projektia varteb **uusi tyhjä kansio** (esim. FE) erillään back-end projektista. FE ja BE elävät siis omissa projekteissaan:
 
