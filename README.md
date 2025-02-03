@@ -11,20 +11,20 @@ Viikko 2
 
 Viikko 3
 
-1. [Responsiivinen suunnittelu](03-responsiivisuus.md)
+1. [Vite perusteet, Responsiivinen suunnittelu](03-responsiivisuus.md)
 2. [Viikon 3 linkit](03-linkkejä.md)
 
 Viikko 4
 
-1. Vite, Fetch, Flexbox
+1. [Fetch, Selektorit, Muuttujat](04-fetch.md)
 
 Viikko 5
 
-1. BE yhdistäminen, Dialogit, modaalit
+1. Flexbox / Grid Layout, Dialogit, Modaalit
 
 Viikko 6
 
-1. Validointi, Autentikointi
+1. Validointi, Autentikointi, CSS Advanced
 
 Viikko 7
 
