@@ -211,6 +211,8 @@ const addUser = async (event) => {
   ... koodi jatku...
 ```
 
+Kun käyttäjä lisätään onnistuneesti tai lisääminen epäonnistuu voit tehdä konsoliin tulostamisen tai alertin sijaan kauniin toast viestin. Näytä kuitenkin sekä konsolissa, että alert/toast tiedoissa backendistä tuleva message.
+
 ### KOTITEHTÄVÄ 4 - Yksittäisen käyttäjän tiedot
 
 Taulukon listan jokaisella jäsenellä on info nappula. Lisää toiminto, jossa "Info" nappulaa painamalla haetaan yksittäisen käyttäjän tiedot. Tähän tarvitse data-attribuutteja.
