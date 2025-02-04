@@ -1,6 +1,6 @@
 # Fetch API, Rajapintatestaus
 
-Täällä viikolla keskitymme harjoittelemaan rajapintakutsuja. Rakennamme Vite-projektin, jossa haet, lisäät ja poistat käyttäjiä API:sta. Voit tehdä uuden oman pohjan alla olevalla rakenteella tai ottaa valmiiksi [tämän harjoituspohjan](harjoitukset/vk4-apiharjoitus.zip). Muokkaa jälleen pohja kauniimmaksi ja sopivaksi omaan sivustoosi.
+Täällä viikolla keskitymme harjoittelemaan rajapintakutsuja. Rakennamme Vite-projektin, jossa haet, lisäät ja poistat käyttäjiä API:sta. Voit tehdä uuden oman pohjan alla olevalla rakenteella tai ottaa valmiiksi omasta harjoituspohjan. Muokkaa jälleen pohja kauniimmaksi ja sopivaksi omaan sivustoosi.
 
 Teemme harjoitukset suoraan vite-ympäristöön. Asenna nyt vite kerran uudestaa tätä harjoitusta varten. Laitamme samalla rakenteen sivuilla kuntoon. Luo uudet kansiot css, js ja pages ja siiirä style.css sekä main.js uusi kansioihin. Korjaa myös polut viittaamaan oikeisiin tiedostoihin. Tee myös fetch.js, items.js ja users.js tiedostot. Ne voivat olla kaikki tyhjiä. Testaa, että kaikki toimii ja saat ajettua projektin virheettä.
 
