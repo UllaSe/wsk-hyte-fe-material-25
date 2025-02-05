@@ -215,7 +215,9 @@ Kun käyttäjä lisätään onnistuneesti tai lisääminen epäonnistuu voit teh
 
 ### KOTITEHTÄVÄ 4 - Yksittäisen käyttäjän tiedot
 
-Taulukon listan jokaisella jäsenellä on info nappula. Lisää toiminto, jossa "Info" nappulaa painamalla haetaan yksittäisen käyttäjän tiedot. Tähän tarvitse data-attribuutteja.
+Testaa yksittäisen käyttäjän tiedon hakua. Ei ole väliä teetkö nappulan harjoituspohjaan, vai kentien taulukon tai alertin, kunhan saat haettua käyttäjän ID:n perusteella taustapalvelusta tiedot.
+
+**Jos haluat haastetta:** Taulukon listan jokaisella jäsenellä on info nappula. Lisää toiminto, jossa "Info" nappulaa painamalla haetaan yksittäisen käyttäjän tiedot. Tähän tarvitse data-attribuutteja.
 
 ```http
 ### get item by id
@@ -239,4 +241,22 @@ const addButtonEventListeners = () => {
 };
 ```
 
-Tiedot näytetään käyttäjälle alert ponnahdusikkunassa.
+### KOTITEHTÄVÄN palautusohjeet
+
+Luo vite projektiasi varten uusi github repo. Alusta Git-repositorio komennolla `git init` ja luo `.gitignore` -tiedosto. Lisää siihen ainakin `node_modules` kansio.
+
+```gitignore
+.vscode
+node_modules
+.DS_Store
+```
+
+Kaikki muut kansiot ja tiedostot voit lisätä gittiin. Muista pitää `.gitignore` tiedosto aina ajan tasalla lisäämällä siihen tiedostot, joita et halua versionhallintaan! Kopio koodisi githubiin. Palauta OMAssa linkki github repoon.
+
+```sh
+git init
+git add .
+git commit -m "Ensimmäinen commit"
+git remote add origin <OMA-REPO-URL>
+git push -u origin main
+```
