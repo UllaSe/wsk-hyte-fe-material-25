@@ -110,7 +110,7 @@ Flexbox tarjoaa monipuolisia mahdollisuuksia layoutien hallintaan ja on tullut y
 
 Harjoittelemme aamun tunneila näitä käsitteitä yhdessä, vanhan tutun asemointitehtävän avulla:
 
-[Laatikkoleikki](tuntiesimerkit-pohjat/vk1-asemointi-pohja/asemointi.html)
+[Laatikkoleikki](harjoitukset/vk1-asemointi.html)
 
 Harjoittelemme tekemään vastaavanlaisen layoutin yhdessä:
 
