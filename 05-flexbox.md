@@ -6,7 +6,7 @@
 
 https://www.w3schools.com/howto/howto_css_modals.asp
 
-Modaalien kanssa on perinteisesti ollut jonkunverran hankaluuksia, kuten se, että modaalin tausta yhä scrollaantuu vaikkakin käyttäjällä on modaal auki. Näytän tästä tunnilla pari esimerkkiä. Modaaleja korvaamaan on lähivuosina kehitetty uusi html elemenentti **dialog** joka tarjoaa natiivin tuen modaaleille.
+Modaalien kanssa on perinteisesti ollut jonkunverran hankaluuksia, kuten se, että modaalin tausta yhä scrollaantuu vaikkakin käyttäjällä on modaal auki. Näytän tästä tunnilla pari esimerkkiä. Modaaleja korvaamaan on lähivuosina kehitetty uusi html elementti **dialog** joka tarjoaa natiivin tuen modaaleille.
 
 **Dialog**
 
@@ -22,6 +22,8 @@ Lisätään Dialogille myös Backdrop ominaisuus.
 - https://css-tricks.com/almanac/selectors/b/backdrop/ <br>
 - https://codepen.io/chergav/pen/zYYbjaE
   <br>
+
+### Tehtävä 1 - Dialogi
 
 Lisää seuraavat rivit html sivuillesi:
 
@@ -114,7 +116,7 @@ Harjoittelemme tekemään vastaavanlaisen layoutin yhdessä:
 
 ![image](images/cat.png)
 
-### Tehtävä 1 - Kortit
+### Tehtävä 2 - Kortit
 
 Alla on kuvankaappaus kahdesta kortista. Korttien asemointi on tehty puhtaasti hyödyntäen Flexbox layout moduulia. Lisää api-harjoituspohjaan tai halutessasi luo uusi sivu johon haet taustapalvelusta käyttäjän päiväkirjamerkinnät ja luot niille tarvittavan määrän kortteja. Luomisessa ja asemoinnissa käytä aamulla oppimaasi eli Flexbox-layout ominaisuuksia. Voit käyttää korteissa omaa tyylittelyä. Luo ensin flexboxin avulla staattisesti yhden kortin runko. Vasemmalle laita joku täyttökuva, oikealle tulee laittaa itse merkinnät.
 
@@ -140,7 +142,7 @@ Alla on kuvankaappaus kahdesta kortista. Korttien asemointi on tehty puhtaasti h
 
 ![image](images/flexbox-card.png)
 
-### Tehtävä 2 - Fetch omasta rajapinnasta + Itse luodut elementit
+### Tehtävä 3 - Fetch omasta rajapinnasta + Itse luodut elementit
 
 Seuraavaksi yhdistä kaikki edellä opittu. Jos rajapintasi ei vielä toimi voit alkuun hakea korttien tekstisisällön tiedostosta. Luo **diary.json** niminen tiedosto projektiisi ja siirrä se **public** kansioon ja tee fetch suoraan tiedostoon. Vite ei osaa tarjota staattisia tiedostoja src kansiosta. Viittaa publick kansion json tiedostoon samoin kuin kuviin. Näin voit käyttää mokkidataa ilman toimivaa rajapintaa.
 
