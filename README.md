@@ -20,11 +20,11 @@ Viikko 4
 
 Viikko 5
 
-1. Flexbox / Grid Layout, Dialogit, Modaalit
+1. [Flexbox Layout, Dialogit, Modaalit](05-flexbox.md)
 
 Viikko 6
 
-1. Validointi, Autentikointi, CSS Advanced
+1. Vite-projektin koostaminen. Validointi, Autentikointi, CSS Advanced
 
 Viikko 7
 
