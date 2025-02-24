@@ -70,10 +70,10 @@ const addEventListeners = () => {
 				// open modal
 				dialog.showModal();
 				dialog.querySelector('p').innerHTML = `
-          <div>User ID: <span>${user.user_id}</span></div>
-          <div>User Name: <span>${user.username}</span></div>
-          <div>Email: <span>${user.email}</span></div>
-          <div>Role: <span>${user.user_level}</span></div>`;
+      <div>User ID: <span>${user.user_id}</span></div>
+      <div>User Name: <span>${user.username}</span></div>
+      <div>Email: <span>${user.email}</span></div>
+      <div>Role: <span>${user.user_level}</span></div>`;
 			}
 		});
 	});

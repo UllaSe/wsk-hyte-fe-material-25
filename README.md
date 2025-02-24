@@ -24,7 +24,7 @@ Viikko 5
 
 Viikko 6
 
-1. Vite-projektin koostaminen. Validointi, Autentikointi, CSS Advanced
+1. [Vite-projektin koostaminen. Validointi, Autentikointi](06-autentikaatio-lomakkeet.md)
 
 Viikko 7
 
